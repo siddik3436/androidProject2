@@ -5,5 +5,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_second">SecondActivity</string>
     <string name="button_text_android_project1_mainactivity">Go To Second Activity</string>
+    <string name="title_activity_third">ThirdActivity</string>
 
 </resources>
